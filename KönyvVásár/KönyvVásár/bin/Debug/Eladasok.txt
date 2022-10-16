@@ -1,0 +1,2 @@
+1;1984;George Orwell;1949;1;3999;True;Nagy Péter;3999
+2;Harry Potter;J.K Rowling;1997;1;27990;True;7;Tóth Annabella;27990

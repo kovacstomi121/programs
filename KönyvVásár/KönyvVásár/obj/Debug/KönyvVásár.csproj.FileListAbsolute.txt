@@ -1,0 +1,28 @@
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\Sql\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.csproj.AssemblyReference.cache
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\Sql\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.csproj.SuggestedBindingRedirects.cache
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\Sql\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.Form1.resources
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\Sql\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.Properties.Resources.resources
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\Sql\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.csproj.GenerateResource.cache
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\Sql\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.csproj.CoreCompileInputs.cache
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\Sql\KönyvVásár\KönyvVásár\bin\Debug\KönyvVásár.exe.config
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\Sql\KönyvVásár\KönyvVásár\bin\Debug\KönyvVásár.exe
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\Sql\KönyvVásár\KönyvVásár\bin\Debug\KönyvVásár.pdb
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\Sql\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.exe
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\Sql\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.pdb
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\Sql\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.UjKonyvForm.resources
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\Sql\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.ErdeklodoForm.resources
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\Sql\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.EladasForm.resources
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\OOP beadandó\KönyvVásár\KönyvVásár\bin\Debug\KönyvVásár.exe.config
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\OOP beadandó\KönyvVásár\KönyvVásár\bin\Debug\KönyvVásár.exe
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\OOP beadandó\KönyvVásár\KönyvVásár\bin\Debug\KönyvVásár.pdb
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\OOP beadandó\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.csproj.AssemblyReference.cache
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\OOP beadandó\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.csproj.SuggestedBindingRedirects.cache
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\OOP beadandó\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.EladasForm.resources
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\OOP beadandó\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.ErdeklodoForm.resources
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\OOP beadandó\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.Form1.resources
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\OOP beadandó\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.Properties.Resources.resources
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\OOP beadandó\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.UjKonyvForm.resources
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\OOP beadandó\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.csproj.GenerateResource.cache
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\OOP beadandó\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.csproj.CoreCompileInputs.cache
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\OOP beadandó\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.exe
+C:\Users\japik_t6lhsq1\Documents\BGE\4. félév\OOP beadandó\KönyvVásár\KönyvVásár\obj\Debug\KönyvVásár.pdb
