@@ -1,0 +1,32 @@
+C:\Users\bajaki\Source\Repos\Számlakészítés\Számlakészítés\bin\Debug\Számlakészítés.exe.config
+C:\Users\bajaki\Source\Repos\Számlakészítés\Számlakészítés\bin\Debug\Számlakészítés.exe
+C:\Users\bajaki\Source\Repos\Számlakészítés\Számlakészítés\bin\Debug\Számlakészítés.pdb
+C:\Users\bajaki\Source\Repos\Számlakészítés\Számlakészítés\obj\Debug\Számlakészítés.Form1.resources
+C:\Users\bajaki\Source\Repos\Számlakészítés\Számlakészítés\obj\Debug\Számlakészítés.Properties.Resources.resources
+C:\Users\bajaki\Source\Repos\Számlakészítés\Számlakészítés\obj\Debug\Számlakészítés.VevoForm.resources
+C:\Users\bajaki\Source\Repos\Számlakészítés\Számlakészítés\obj\Debug\Számlakészítés.csproj.GenerateResource.cache
+C:\Users\bajaki\Source\Repos\Számlakészítés\Számlakészítés\obj\Debug\Számlakészítés.csproj.CoreCompileInputs.cache
+C:\Users\bajaki\Source\Repos\Számlakészítés\Számlakészítés\obj\Debug\Számlakészítés.exe
+C:\Users\bajaki\Source\Repos\Számlakészítés\Számlakészítés\obj\Debug\Számlakészítés.pdb
+C:\Users\bajaki\Source\Repos\Számlakészítés jó\Számlakészítés\bin\Debug\Számlakészítés.exe.config
+C:\Users\bajaki\Source\Repos\Számlakészítés jó\Számlakészítés\bin\Debug\Számlakészítés.exe
+C:\Users\bajaki\Source\Repos\Számlakészítés jó\Számlakészítés\bin\Debug\Számlakészítés.pdb
+C:\Users\bajaki\Source\Repos\Számlakészítés jó\Számlakészítés\obj\Debug\Számlakészítés.Form1.resources
+C:\Users\bajaki\Source\Repos\Számlakészítés jó\Számlakészítés\obj\Debug\Számlakészítés.Properties.Resources.resources
+C:\Users\bajaki\Source\Repos\Számlakészítés jó\Számlakészítés\obj\Debug\Számlakészítés.VevoForm.resources
+C:\Users\bajaki\Source\Repos\Számlakészítés jó\Számlakészítés\obj\Debug\Számlakészítés.csproj.GenerateResource.cache
+C:\Users\bajaki\Source\Repos\Számlakészítés jó\Számlakészítés\obj\Debug\Számlakészítés.csproj.CoreCompileInputs.cache
+C:\Users\bajaki\Source\Repos\Számlakészítés jó\Számlakészítés\obj\Debug\Számlakészítés.exe
+C:\Users\bajaki\Source\Repos\Számlakészítés jó\Számlakészítés\obj\Debug\Számlakészítés.pdb
+C:\Users\bajaki\Source\Repos\Számlakészítés jó\Számlakészítés\obj\Debug\Számlakészítés.csprojAssemblyReference.cache
+c:\Users\bajaki\Source\Repos\Rendelés_számlakészítéssel\Számlakészítés\bin\Debug\Számlakészítés.exe.config
+c:\Users\bajaki\Source\Repos\Rendelés_számlakészítéssel\Számlakészítés\bin\Debug\Számlakészítés.exe
+c:\Users\bajaki\Source\Repos\Rendelés_számlakészítéssel\Számlakészítés\bin\Debug\Számlakészítés.pdb
+c:\Users\bajaki\Source\Repos\Rendelés_számlakészítéssel\Számlakészítés\obj\Debug\Számlakészítés.csprojAssemblyReference.cache
+c:\Users\bajaki\Source\Repos\Rendelés_számlakészítéssel\Számlakészítés\obj\Debug\Számlakészítés.Form1.resources
+c:\Users\bajaki\Source\Repos\Rendelés_számlakészítéssel\Számlakészítés\obj\Debug\Számlakészítés.Properties.Resources.resources
+c:\Users\bajaki\Source\Repos\Rendelés_számlakészítéssel\Számlakészítés\obj\Debug\Számlakészítés.VevoForm.resources
+c:\Users\bajaki\Source\Repos\Rendelés_számlakészítéssel\Számlakészítés\obj\Debug\Számlakészítés.csproj.GenerateResource.cache
+c:\Users\bajaki\Source\Repos\Rendelés_számlakészítéssel\Számlakészítés\obj\Debug\Számlakészítés.csproj.CoreCompileInputs.cache
+c:\Users\bajaki\Source\Repos\Rendelés_számlakészítéssel\Számlakészítés\obj\Debug\Számlakészítés.exe
+c:\Users\bajaki\Source\Repos\Rendelés_számlakészítéssel\Számlakészítés\obj\Debug\Számlakészítés.pdb
